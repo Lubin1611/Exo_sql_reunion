@@ -1,0 +1,25 @@
+
+label, select, input{
+  width: 150px;
+  display: inline-block;
+  margin: 5px 0;
+}
+
+td, table, tr {
+
+  border: 1px black solid;
+
+}
+
+th {
+
+  background-color: orange;
+
+}
+
+#contentTab {
+
+  margin-left: 25%;
+  margin-top: 10%;
+
+}
